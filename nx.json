@@ -1,0 +1,8 @@
+{
+  "extends": "nx/presets/npm.json",
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "affected": {
+    "defaultBase": "master"
+  },
+  "nxCloudAccessToken": "NWM1MTUxNTEtYjMwZi00MGI0LTg5NDktZWI2N2ZhNmY1MDNifHJlYWQtd3JpdGU="
+}
